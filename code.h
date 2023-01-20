@@ -1,0 +1,4 @@
+#ifndef CODE_F_INCLUDED
+#define CODE_H_INLUDED
+
+#endif //CODE_H_INCLUDED
